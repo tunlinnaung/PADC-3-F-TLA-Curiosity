@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Curiosity</string>
+    <string name="tnc">Terms &amp; Conditions and Privacy Policy</string>
+    <string name="str_facebook">Sign In With <b>Facebook</b></string>
+    <string name="str_google">Sign In With <b>Google</b></string>
+    <string name="str_twitter">Sign In With <b>Twitter</b></string>
 </resources>
